@@ -4,9 +4,7 @@ Neural Network
 Dataset: Tiny_ImageNet
 
 
-Purpose of Project:
-
-Build the neural network to correctly classify the images.
+Purpose of Project: Build the neural network to correctly classify the images.
 
 ResNet: 46% accuracy
 
