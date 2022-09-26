@@ -1,2 +1,1 @@
-# Project
-Personal project
+<h1> Personal project </h1>
